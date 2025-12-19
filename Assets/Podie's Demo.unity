@@ -491,7 +491,12 @@ MonoBehaviour:
   setActiveActions:
   - condition:
       luaConditions: []
-      questConditions: []
+      questConditions:
+      - questName: DemoGuyDudeQuest23
+        questState: 2
+        checkQuestEntry: 0
+        entryNumber: 0
+        questEntryState: 0
       acceptedTags: []
       acceptedGameObjects: []
       luaWizardIndex: 0
