@@ -1,0 +1,4 @@
+repository "Arcade Game Prototype/Little Red Riding Hood@2475880385158@cloud"
+  path "/"
+    br "/main"
+    co "/main"
