@@ -17,6 +17,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/TestScene3.unity
     guid: 4d51b70d101ee4644bd7e9963b5fd810
+  - enabled: 1
+    path: Assets/RealGameScenes/Woodsman's Area.unity
+    guid: cdffdbe58263fe84da7caa435c24a10f
+  - enabled: 1
+    path: Assets/RealGameScenes/Woodman's Shed.unity
+    guid: 3d8072b8d0610fb4b80d588b47b3306b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
