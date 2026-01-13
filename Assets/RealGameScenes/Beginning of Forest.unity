@@ -3060,6 +3060,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 978814207644546345, guid: eebcbe48a5fdf3b46a90109ea9ef080a, type: 3}
+      propertyPath: sceneToLoad
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3978522911152276805, guid: eebcbe48a5fdf3b46a90109ea9ef080a, type: 3}
       propertyPath: m_Name
       value: Triangle
