@@ -6,23 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
-    path: Assets/TestScene1.unity
-    guid: 8774ef35a95fd204699b20b0856e6222
-  - enabled: 1
-    path: Assets/TestScene2.unity
-    guid: d5275acac18ae4749b99eabe0de9ecc5
-  - enabled: 1
-    path: Assets/TestScene3.unity
-    guid: 4d51b70d101ee4644bd7e9963b5fd810
+    path: Assets/RealGameScenes/Beginning of Forest.unity
+    guid: 701b0df1764dc854a972dbad9a2a3b51
   - enabled: 1
     path: Assets/RealGameScenes/Woodsman's Area.unity
     guid: cdffdbe58263fe84da7caa435c24a10f
   - enabled: 1
     path: Assets/RealGameScenes/Woodman's Shed.unity
     guid: 3d8072b8d0610fb4b80d588b47b3306b
+  - enabled: 1
+    path: Assets/RealGameScenes/Neighbor's Area.unity
+    guid: 51f7359a4765e7b418f8cdbb7dfb34a5
+  - enabled: 1
+    path: Assets/RealGameScenes/Grandma's Area.unity
+    guid: 5750afc1b61696940a2fa09a2031bd77
+  - enabled: 1
+    path: Assets/RealGameScenes/Grandma's House.unity
+    guid: de8ff54831ff6ec428b7744c0a2088b9
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
