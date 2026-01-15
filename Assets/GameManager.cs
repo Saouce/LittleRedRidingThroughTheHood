@@ -4,8 +4,8 @@ public class GameManager : MonoBehaviour
 {
     // A static reference to the single instance of the class
     public static GameManager Instance { get; private set; }
-    public bool huntsmanAxeitem = false; 
-
+    public bool huntsmanAxeitem = false;
+    public bool openingcutscene = false;
     
     private void Awake()
     {
